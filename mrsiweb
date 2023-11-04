@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Mr. SI's Website</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Mr. SI's Website</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About Host</h2>
+            <p>I am Sahed Ikbal, the host of this website.</p>
+            <!-- Remember to upload your image to the web server and use the correct path here -->
+            <img src="https://imgur.com/a/RQyWS4q" alt="Sahed Ikbal" width="300">
+            <a href='https://postimg.cc/yJXtYY2b' target='_blank'><img src='https://i.postimg.cc/0NLsnznP/FB-IMG-1699020382575-1.jpg' border='0' alt='Sahed Ikbal'/></a>
+        </section>
+        <section>
+            <h2>Our Services</h2>
+            <ul>
+                <li>All Types of Hacking and Cracking</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact Us</h2>
+            <p>Email: sahed.ikbal.indonesia.01@gmail.com</p>
+            <p>Facebook: <a href="https://www.facebook.com/Sahed.Ikbal.King.BD">Sahed.Ikbal.King.BD</a></p>
+            <p>Phone: 01717556606</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Mr. SI's Website</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
